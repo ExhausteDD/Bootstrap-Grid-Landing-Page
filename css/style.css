@@ -144,3 +144,52 @@ nav {
     text-transform: uppercase;
 }
 
+.reasons .reasons_rectangle {
+    width: 112px;
+    height: 24px;
+    background-color: #000000;
+    color: #ffffff;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 71px;
+}
+
+.reasons .reasons_subheader {
+    color: #222222;
+    font-size: 38px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 38px 0 0 0;
+}
+
+.reasons .reasons_card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 35px;
+}
+
+.reasons .reasons_card .card_img {
+    margin-right: 26px;
+}
+
+.reasons .reasons_card .card_descr {
+    width: 341px;
+    height: 141px;
+}
+
+.card_descr .card_header {
+    color: #1eacc7;
+    font-size: 17px;
+    font-weight: 400;
+}
+
+.card_descr .card_text {
+    color: #202020;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 21px;
+}
