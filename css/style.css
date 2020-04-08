@@ -144,7 +144,7 @@ nav {
     text-transform: uppercase;
 }
 
-.reasons .reasons_rectangle {
+.label {
     width: 112px;
     height: 24px;
     background-color: #000000;
@@ -156,7 +156,7 @@ nav {
     margin-top: 71px;
 }
 
-.reasons .reasons_subheader {
+.title {
     color: #222222;
     font-size: 38px;
     font-weight: 700;
