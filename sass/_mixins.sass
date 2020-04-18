@@ -6,11 +6,11 @@
     &:hover
         color: $white
         text-decoration: none
-        border-bottom: 2px solid $white
-        transition: 0.4s all
-        @media (max-width: 1200px)
-            border-bottom: 1px solid $white
 @mixin hover_call
     &:hover
         color: $white
         text-decoration: none
+@mixin btn_active
+    &:active
+        background-color: #616161
+        transition: 0.2s all   
