@@ -12,4 +12,4 @@ It's a small simple landind page, so its only:
 | [JS](https://www.w3schools.com/js/) | Interactive of the page|
 ___
 ## Live 📍
-You can this landing page [HERE](https://exhaustedd.github.io/Bootstrap-Grid-Landing-Page/) Dont forget to try it on various resolution. In case of some wrong thinks mark it in my code.
+You can see my landing page [HERE](https://exhaustedd.github.io/Bootstrap-Grid-Landing-Page/) Dont forget to try it on various resolutions. In case of some wrong things [write me](mailto:kysil_jenia@ukr.net) on my email address.
